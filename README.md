@@ -22,9 +22,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FoXDev-404&style=flat-square&color=blueviolet" alt="Profile Views Count">
-  <a href="https://github.com/FoXDev-404?tab=followers">
-    <img src="https://img.shields.io/github/followers/FoXDev-404?style=social" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=localghost09&style=flat-square&color=blueviolet" alt="Profile Views Count">
+  <a href="https://github.com/localghost09?tab=followers">
+    <img src="https://img.shields.io/github/followers/localghost09?style=social" alt="GitHub followers">
   </a>
 </div>
 
@@ -91,23 +91,17 @@ me.sayHi();
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoXDev-404&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=localghost09&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Projects
 
-<div align="center">
-  <a href="https://github.com/FoXDev-404/PyMastery-100Days-100Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=PyMastery-100Days-100Projects&theme=radical" alt="PyMastery Project" />
-  </a>
-</div>
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FoXDev-404&theme=synthwave&show_icons=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoXDev-404&theme=synthwave" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoXDev-404&theme=synthwave&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=localghost09&theme=synthwave&show_icons=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=localghost09&theme=synthwave" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localghost09&theme=synthwave&layout=compact" height="150" />
 </div>
 
 ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsYteTOT/giphy.gif" width="30"> Weekly Coding Stats
