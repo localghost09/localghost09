@@ -110,68 +110,7 @@ me.sayHi();
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2045%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-515.4%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-🌆 Daytime                72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-🌃 Evening                609 commits         ███████████████████░░░░░░   76.51 % 
-🌙 Night                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Tuesday                  84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Wednesday                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Saturday                 153 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Sunday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               3 hrs 35 mins       ███████████████████░░░░░░   75.50 % 
-Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████░░░░░░░░   66.41 % 
-WebStorm                 1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-
-🐱‍💻 Projects: 
-FullStack-Project        3 hrs 20 mins       ██████████████████░░░░░░░   70.15 % 
-FoXDev-404-main          1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-
-💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
-
-**I Mostly Code in HTML** 
-
-`JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-
-
-
-
- Last Updated on 23/04/2025 18:49:53 UTC
 <!--END_SECTION:waka-->
   
 </details>
@@ -189,13 +128,13 @@ Acquire certifications in cloud platforms and modern web technologies
 ---
 
 <div align="center">
-  <a href="https://github.com/FoXDev-404">
+  <a href="https://github.com/localghost09">
     <img src="https://img.shields.io/badge/Check%20out%20my%20latest%20projects!-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Check out my latest projects">
   </a>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FoXDev-404/FoXDev-404/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoXDev-404/FoXDev-404/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FoXDev-404/FoXDev-404/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/localghost09/localghost09/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/localghost09/localghost09/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/localghost09/localghost09/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
