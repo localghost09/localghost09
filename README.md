@@ -28,8 +28,6 @@
   </a>
 </div>
 
----
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 ```javascript
@@ -50,7 +48,6 @@ class Nikhil_Pratap_Singh {
 
 const me = new Nikhil_Pratap_Singh();
 me.sayHi();
-
 ```
 
 - 🔭 I'm currently working on **React projects** and expanding my programming skills
